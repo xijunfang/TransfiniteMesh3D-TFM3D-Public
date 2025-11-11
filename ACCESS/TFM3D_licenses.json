@@ -1,5 +1,5 @@
 {
-  "issued": "2025-11-11T15:34:08Z",
+  "issued": "2025-11-11T16:06:52Z",
   "active": {
     "049927d6badee872f860608d477217272980b6ced2f46ee0959438c0790223a8": {
       "registered": "2025-11-11",
@@ -14,6 +14,21 @@
     "afb5d88fbd786f19444825ccb9a3a33cd3ca23f86346b21e2c06166d6106163f": {
       "registered": "2025-11-17",
       "expire": "2025-11-24",
+      "note": "Full Registration"
+    },
+    "210f5eac7ea48b1235629ab6108042ae141dcfc003c2810962d4321760175ba5": {
+      "registered": "2025-11-15",
+      "expire": "2025-11-22",
+      "note": "Full Registration"
+    },
+    "b5219f2280b9462c0d419cd65869282eb907950d8aab85462e33aafb4ea7ce48": {
+      "registered": "2025-11-13",
+      "expire": "2025-11-20",
+      "note": "Full Registration"
+    },
+    "bd265d39735ae9c62867fcc2d3a5837e1e1a404bfc542b26f3fe85b18777e451": {
+      "registered": "2025-11-12",
+      "expire": "2025-11-19",
       "note": "Full Registration"
     }
   },
