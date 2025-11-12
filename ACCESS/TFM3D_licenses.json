@@ -1,5 +1,5 @@
 {
-  "issued": "2025-11-12T03:22:49Z",
+  "issued": "2025-11-12T03:24:25Z",
   "active": {
     "a0e8dbdde567430c83b28061a58be1ae8cd4380a5ba0c5bdf170d2d75c2a432d": {
       "registered": "2025-11-15",
@@ -11,7 +11,7 @@
       "expire": "2025-11-19",
       "note": "Full Registration"
     },
-    "9b0789389addb3cb8a6feb7d0a717a617fe7da27f48a6078456099a111b95a44": {
+    "cf7d932fcb05b31e4aae4bb24746250ab7e5c10a4a9bfb5b4d9e990dfb3b117c": {
       "registered": "2025-11-11",
       "expire": "2045-11-11",
       "note": "Manager"
