@@ -1,5 +1,5 @@
 {
-  "issued": "2025-11-12T03:24:25Z",
+  "issued": "2025-11-12T03:27:46Z",
   "active": {
     "a0e8dbdde567430c83b28061a58be1ae8cd4380a5ba0c5bdf170d2d75c2a432d": {
       "registered": "2025-11-15",
@@ -14,7 +14,7 @@
     "cf7d932fcb05b31e4aae4bb24746250ab7e5c10a4a9bfb5b4d9e990dfb3b117c": {
       "registered": "2025-11-11",
       "expire": "2045-11-11",
-      "note": "Manager"
+      "note": "Aadministrator"
     }
   },
   "revoked": {}
