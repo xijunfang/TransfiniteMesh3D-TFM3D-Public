@@ -1,34 +1,39 @@
 {
-  "issued": "2025-11-11T16:50:15Z",
+  "issued": "2025-11-12T02:04:30Z",
   "active": {
     "049927d6badee872f860608d477217272980b6ced2f46ee0959438c0790223a8": {
-      "registered": "2025-11-11",
-      "expire": "2026-11-11",
-      "note": "Manager"
+      "registered": "2025-11-12",
+      "expire": "2026-11-12",
+      "note": "Full Registration"
     },
     "c71c3d3ed1c2095a68ff20f7d6b0862f387a18aa698927ae5cee6f1410a4aca3": {
-      "registered": "2025-11-15",
-      "expire": "2025-11-22",
+      "registered": "2025-11-12",
+      "expire": "2026-11-12",
       "note": "Full Registration"
     },
     "afb5d88fbd786f19444825ccb9a3a33cd3ca23f86346b21e2c06166d6106163f": {
-      "registered": "2025-11-17",
-      "expire": "2025-11-24",
+      "registered": "2025-11-12",
+      "expire": "2026-11-12",
       "note": "Full Registration"
     },
     "210f5eac7ea48b1235629ab6108042ae141dcfc003c2810962d4321760175ba5": {
-      "registered": "2025-11-15",
-      "expire": "2025-11-22",
+      "registered": "2025-11-12",
+      "expire": "2026-11-12",
       "note": "Full Registration"
     },
     "b5219f2280b9462c0d419cd65869282eb907950d8aab85462e33aafb4ea7ce48": {
-      "registered": "2025-11-13",
-      "expire": "2025-11-20",
+      "registered": "2025-11-12",
+      "expire": "2026-11-12",
       "note": "Full Registration"
     },
     "bd265d39735ae9c62867fcc2d3a5837e1e1a404bfc542b26f3fe85b18777e451": {
       "registered": "2025-11-12",
-      "expire": "2025-11-19",
+      "expire": "2026-11-12",
+      "note": "Full Registration"
+    },
+    "2832f1322ed166e4f88da03e91e9a2dcc6f53cee5e07032e89cda5ba9c4d0ed7": {
+      "registered": "2025-11-12",
+      "expire": "2026-11-12",
       "note": "Full Registration"
     }
   },
