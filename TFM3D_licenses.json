@@ -1,0 +1,21 @@
+{
+  "issued": "2025-11-12T02:57:55Z",
+  "active": {
+    "69f2eaf7b77ca4290989ce7852cb98bd254d6e84fa30315ca7e04f89252d59dd": {
+      "registered": "2025-11-12",
+      "expire": "2025-11-19",
+      "note": "Full Registration"
+    },
+    "a0e8dbdde567430c83b28061a58be1ae8cd4380a5ba0c5bdf170d2d75c2a432d": {
+      "registered": "2025-11-15",
+      "expire": "2025-11-22",
+      "note": "Full Registration"
+    },
+    "cd2e89130d9a806f50f934627e9c9a9e542d7463ad1e6b0e08e2d30fae41d6c2": {
+      "registered": "2025-11-11",
+      "expire": "2045-11-11",
+      "note": "Manager"
+    }
+  },
+  "revoked": {}
+}
